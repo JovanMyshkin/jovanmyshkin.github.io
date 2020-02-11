@@ -9,7 +9,7 @@ name: Jovan Stefanov
 description: Writing
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: https://pbs.twimg.com/profile_images/1099015531515035648/w-AUgKCt_400x400.png
+avatar: 
 
 #
 # Flags below are optional
@@ -22,7 +22,7 @@ footer-links:
   facebook: 
   flickr:
   github: 
-  instagram: https://www.instagram.com/jovan_stefanov
+  instagram: jovan_stefanov
   linkedin:
   pinterest:
   rss: # just type anything here for a working RSS icon
